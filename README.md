@@ -4,17 +4,6 @@ Build complex business forms with ease
 
 <br>
 
-<div align="center">
-
-[![Build Status][travis-image]][travis-url]
-[![Dependency Status][david-image]][david-url]
-[![DevDependency Status][david-dev-image]][david-dev-url]
-[![Github Tag][github-tag-image]][github-tag-url]
-
-[![Good first issues open][good-first-issue-image]][good-first-issue-url]
-
-</div>
-
 ## Install
 
 - **If you have installation or compilation issues with this project, please see [our debugging guide](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/400)**
