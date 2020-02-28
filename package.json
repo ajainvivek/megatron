@@ -51,8 +51,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "Megatron",
+    "appId": "org.develar.Megatron",
     "files": [
       "dist/",
       "node_modules/",
@@ -95,25 +95,25 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate",
+      "owner": "megatron",
+      "repo": "megatron",
       "private": false
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://github.com/ajainvivek/megatron.git"
   },
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Ajain Vivek",
+    "email": "hello@megatron.app",
+    "url": "https://megatron.app"
   },
   "contributors": [
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "https://github.com/ajainvivek/megatron/issues"
   },
   "keywords": [
     "electron",
@@ -127,7 +127,7 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/ajainvivek/megatron#readme",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
@@ -263,7 +263,6 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
     "@hot-loader/react-dom": "^16.11.0",
-    "@lendi/integrations-credit-protocol": "^1.0.0",
     "connected-react-router": "^6.6.1",
     "core-js": "^3.6.4",
     "devtron": "^1.4.0",
